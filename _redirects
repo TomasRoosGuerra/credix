@@ -1,7 +1,0 @@
-# Force HTTPS
-http://credixgroup.se/* https://credixgroup.se/:splat 301!
-https://credixgroup.se/* https://credixgroup.se/:splat 301!
-
-# Handle www redirects
-http://www.credixgroup.se/* https://credixgroup.se/:splat 301!
-https://www.credixgroup.se/* https://credixgroup.se/:splat 301!
